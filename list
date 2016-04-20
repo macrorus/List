@@ -208,7 +208,7 @@ AbstractList<string>* get_init()
 
 
 
-bool str_cmp(string* A, string* B)
+/*bool str_cmp(string* A, string* B)
 {
 	int i = 0;
 	const char* a = (*A).c_str();
@@ -278,4 +278,4 @@ int main()
 
     system("pause");
     return 0;
-}
+}*/
